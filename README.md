@@ -1,5 +1,6 @@
 <!-- =========================
      Yasodhar Gubba - Clean Profile (No Picture)
+     Activity Heatmap + Streak + Compact Stats included
    ========================= -->
 
 <div align="center">
@@ -19,17 +20,16 @@
 
 ### 🤖 Machine Learning Intern — SRM University AP  
 **June 2025 – August 2025**  
-- Built and evaluated NLP models using TF-IDF and ML classifiers for fake-news detection.  
-- Improved dataset preprocessing pipelines and optimized model performance for large text datasets.
+- Developed and evaluated NLP models (TF-IDF + ML classifiers) for fake-news detection.  
+- Improved text preprocessing pipelines to boost model accuracy and streamline dataset handling.
 
 ### 💻 Web Developer Intern — CodSoft  
 **July 2024 – August 2024**  
-- Developed responsive frontend components using HTML, CSS, and JavaScript.  
-- Enhanced UI structure and collaborated via Git/GitHub for clean version control.
+- Built responsive UI components using HTML, CSS, and JavaScript.  
+- Enhanced UI consistency and collaborated using Git/GitHub for clean version-controlled development.
 
 ### 🔥 Currently Learning  
 **PostgreSQL • Postman • Docker • Drizzle ORM**
-
 
 ---
 
@@ -92,17 +92,40 @@
 
 ---
 
-## 📈 GitHub Stats 
+## 📈 Activity & Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight" />
+<!-- Activity Heatmap (Option 1) -->
+<p><strong>Contribution Heatmap</strong></p>
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=YasodharGubba05&bg_color=0D1117&color=8b5cf6&line=0ea5e9&point=ffffff&hide_border=true" alt="contribution-graph" style="max-width:100%;" />
+</p>
 
-<img height="165" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight" />
+<!-- Spacer -->
+<br/>
 
-<br><br>
+<!-- Streak (Option 2) -->
+<p><strong>Streak & Compact Stats</strong></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasodharGubba05&theme=dark&hide_border=true" alt="streak-stats" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YasodharGubba05&color=blue" />
+<!-- Compact stats (stable mirror) -->
+<p>
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="compact-stats" />
+</p>
 
 </div>
+
+---
+
+## 📈 GitHub Overview (optional counters)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasodharGubba05&color=blue" alt="profile views" />
+</div>
+
+---
+
 
