@@ -15,13 +15,20 @@
 
 </div>
 
-## 👨‍💻 About Me
-I’m a Computer Science student at **SRM University AP** (GPA: **8.30**) with interests in full-stack development and machine learning.  
-I’ve worked on NLP pipelines, fake-news detection models, frontend development, and I’m currently building skills in backend engineering.
+## 🧑‍💼 Experience
 
-- 🤖 Former **Machine Learning Intern** — SRM University AP  
-- 💻 Former **Web Developer Intern** — CodSoft  
-- 🔥 Currently learning: **Node.js, Express, MongoDB, EJS**
+### 🤖 Machine Learning Intern — SRM University AP  
+**June 2025 – August 2025**  
+- Built and evaluated NLP models using TF-IDF and ML classifiers for fake-news detection.  
+- Improved dataset preprocessing pipelines and optimized model performance for large text datasets.
+
+### 💻 Web Developer Intern — CodSoft  
+**July 2024 – August 2024**  
+- Developed responsive frontend components using HTML, CSS, and JavaScript.  
+- Enhanced UI structure and collaborated via Git/GitHub for clean version control.
+
+### 🔥 Currently Learning  
+**Node.js • Express • MongoDB • EJS**
 
 ---
 
