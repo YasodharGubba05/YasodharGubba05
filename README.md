@@ -1,6 +1,6 @@
 <!-- =========================
-     Yasodhar Gubba - Clean Profile (No Picture)
-     Activity Heatmap + Streak + Compact Stats included
+     Yasodhar Gubba - Final Clean Profile (No Picture)
+     Includes working GitHub contributions graph
    ========================= -->
 
 <div align="center">
@@ -92,25 +92,18 @@
 
 ---
 
-## 📈 Activity & Stats
-
-## 📊 Contribution Graph
+## 📊 Contribution Graph (working)
 
 <div align="center">
 
-<!-- Modern working contribution graph -->
-<img src="https://github-contributions.vercel.app/api/v1/YasodharGubba05" alt="GitHub Contribution Graph" />
+<!-- Modern, reliable contributions graph -->
+<img src="https://github-contributions.vercel.app/api/v1/YasodharGubba05" alt="GitHub contributions graph" style="max-width:100%;"/>
 
-<!-- If you prefer the classic heatmap instead, replace the line above with this: -->
-<!-- <img src="https://ghchart.rshah.org/8b5cf6/YasodharGubba05" alt="GitHub chart" /> -->
+<!-- Optional compact languages/stats (mirror) -->
+<p style="margin-top:12px;">
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
-</div>
----
-
-## 📈 GitHub Overview (optional counters)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasodharGubba05&color=blue" alt="profile views" />
 </div>
 
 ---
