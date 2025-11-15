@@ -92,12 +92,20 @@
 
 ---
 
-## 📊 Contribution Graph
+## 📊 GitHub Contributions & Stats
 
 <div align="center">
 
-<!-- This always works and loads from GitHub resources -->
-<img src="https://raw.githubusercontent.com/YasodharGubba05/YasodharGubba05/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<!-- Working Contribution Graph (Vercel API) -->
+<img src="https://github-contributions-api.deno.dev/YasodharGubba05.svg" alt="GitHub Contributions" width="750"/>
+
+<br><br>
+
+<!-- Working GitHub Stats (Vercel mirror) -->
+<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight" height="165" />
+
+<!-- Working Top Languages -->
+<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight" height="165"/>
 
 </div>
 
