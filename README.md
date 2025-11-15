@@ -28,7 +28,8 @@
 - Enhanced UI structure and collaborated via Git/GitHub for clean version control.
 
 ### 🔥 Currently Learning  
-**Node.js • Express • MongoDB • EJS**
+**PostgreSQL • Postman • Docker • Drizzle ORM**
+
 
 ---
 
