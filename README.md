@@ -91,16 +91,17 @@
 
 ---
 
-## 📈 GitHub Stats (Dynamic)
+## 📈 GitHub Stats 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight&v=1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight&v=1" />
+<img height="165" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YasodharGubba05&color=blue&v=1" />
+<img src="https://komarev.com/ghpvc/?username=YasodharGubba05&color=blue" />
 
 </div>
 
