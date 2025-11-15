@@ -94,30 +94,17 @@
 
 ## 📈 Activity & Stats
 
+## 📊 Contribution Graph
+
 <div align="center">
 
-<!-- Activity Heatmap (Option 1) -->
-<p><strong>Contribution Heatmap</strong></p>
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=YasodharGubba05&bg_color=0D1117&color=8b5cf6&line=0ea5e9&point=ffffff&hide_border=true" alt="contribution-graph" style="max-width:100%;" />
-</p>
+<!-- Modern working contribution graph -->
+<img src="https://github-contributions.vercel.app/api/v1/YasodharGubba05" alt="GitHub Contribution Graph" />
 
-<!-- Spacer -->
-<br/>
-
-<!-- Streak (Option 2) -->
-<p><strong>Streak & Compact Stats</strong></p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasodharGubba05&theme=dark&hide_border=true" alt="streak-stats" />
-</p>
-
-<!-- Compact stats (stable mirror) -->
-<p>
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="compact-stats" />
-</p>
+<!-- If you prefer the classic heatmap instead, replace the line above with this: -->
+<!-- <img src="https://ghchart.rshah.org/8b5cf6/YasodharGubba05" alt="GitHub chart" /> -->
 
 </div>
-
 ---
 
 ## 📈 GitHub Overview (optional counters)
