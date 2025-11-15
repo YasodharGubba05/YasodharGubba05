@@ -92,19 +92,15 @@
 
 ---
 
-## 📊 Contribution Graph (working)
+## 📊 Contribution Graph
 
 <div align="center">
 
-<!-- Modern, reliable contributions graph -->
-<img src="https://github-contributions.vercel.app/api/v1/YasodharGubba05" alt="GitHub contributions graph" style="max-width:100%;"/>
-
-<!-- Optional compact languages/stats (mirror) -->
-<p style="margin-top:12px;">
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+<!-- This always works and loads from GitHub resources -->
+<img src="https://raw.githubusercontent.com/YasodharGubba05/YasodharGubba05/output/github-contribution-grid-snake.svg" alt="snake gif" />
 
 </div>
+
 
 ---
 
