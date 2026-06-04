@@ -181,23 +181,20 @@ open_to: Campus placements · Internships · Full-Stack / AI roles
 
 ---
 
-## `> stats --user YasodharGubba05`
-
 ## > stats --user YasodharGubba05
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasodharGubba05&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YasodharGubba05&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YasodharGubba05&theme=tokyonight" width="48%" />
 
----
+<br><br>
 
-<div align="center">
-
-`built with curiosity · deployed with intent`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasodharGubba05&theme=tokyo-night" />
 
 </div>
 
