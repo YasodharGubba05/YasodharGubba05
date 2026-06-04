@@ -183,12 +183,13 @@ open_to: Campus placements · Internships · Full-Stack / AI roles
 
 ## `> stats --user YasodharGubba05`
 
+## > stats --user YasodharGubba05
+
 <div align="center">
 
-[![GitHub Stats](https://readme-stats-github.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/YasodharGubba05)
-[![Top Languages](https://readme-stats-github.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/YasodharGubba05)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasodharGubba05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-[![Contributions](https://github-contributions-api.deno.dev/YasodharGubba05.svg)](https://github.com/YasodharGubba05)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasodharGubba05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
